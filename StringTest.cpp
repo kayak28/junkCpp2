@@ -14,4 +14,5 @@ int main()
 		cout << str[i] << "\n";
 	}
 	return 0;
+	//retsult: T/n e/n s/n t/n....
 }
