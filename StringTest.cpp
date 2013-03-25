@@ -13,6 +13,8 @@ int main()
 	{
 		cout << str[i] << "\n";
 	}
+	cout << "str.length = " << str.length() << "\n"; 
+
 	return 0;
 	//retsult: T/n e/n s/n t/n....
 }
